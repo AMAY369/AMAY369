@@ -6,7 +6,3 @@
 - 🤔 I’m looking for help with Open Source Contribution
 - 💬 Ask me about DSA
 - 😄 Pronouns: He/Him
-
-|column1 | column2 | column3
-|:Insta: | :Twitter:| :GitHub:
-|ABHAY | AMAY | VEERU
