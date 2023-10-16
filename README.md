@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a Blockchain Project
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning DSA and Web Development
 - 👯 I’m looking to collaborate on MERN Stack Projects
 - 🤔 I’m looking for help with Open Source Contribution
-- 💬 Ask me about DSA
+- 💬 Ask me about DSA and Web Development
 - 😄 Pronouns: He/Him
 - <div>
   <a href="https://www.linkedin.com/in/abhayg369/"><img src="https://www.freepnglogos.com/uploads/linkedin-logo-design-30.png" height="20px" width="20px"></a>
